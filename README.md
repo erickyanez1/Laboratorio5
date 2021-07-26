@@ -82,6 +82,11 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.1.5.PNG)
+  
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/1.PNG)
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/2.PNG)
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/3.PNG)
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.PNG)
 
 </div>
 
@@ -89,21 +94,16 @@
 ###### **TABLA 1. Valores del circuito Equivalente de Thévenin.**
 <div align="center">
 
-
-
-
-  
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/tab1.PNG)
 
 </div>
 
 
 ###### **TABLA 2. Comprobación del Teorema de Thévenin..**
 <div align="center">
-
   
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/tab2.PNG)
   
-
 </div>
 
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
