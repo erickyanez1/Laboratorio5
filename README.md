@@ -120,7 +120,7 @@
 Se concluye que:
 
 - r.
-- El teorema de Thévenin permite reducir el circuito más complicado a un circuito equivalente con una sola fuente de voltaje y una sola resistencia
+- El teorema de Thévenin permite reducir el circuito más complicado a un circuito equivalente con una sola fuente de voltaje y una sola resistencia, los valores de estas mismas dependeran del circuito original. 
 - .
 
 # **8. BIBLIOGRAFÍA**
