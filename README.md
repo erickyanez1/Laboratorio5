@@ -16,12 +16,11 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - .
+  - Comprender el Teorema de Thévenin en circuitos eléctricos y electrónicos mediante la realización de cálculos con el fin de dar valores que sean y cumplan exactamente lo mismo que el circuito original.
  
  **OBJETIVOS ESPECÍFICOS**
-  - .
-  - .
-  - .
+  - Aplicar los conocimientos de Ley de Ohm y mallas de circuitos mediante cálculos con el fin de encontrar intensidades, resistencias y voltajes en el circuito propuesto.
+  - Analizar el circuito propuesto y darle la forma de un circuito de Thévenin, teniendo así el mismo circuito con una sola fuente y una resistencia equivalente con el fin de tener un circuito simplificado.
 
 # **2. MARCO TEÓRICO**
 
@@ -117,7 +116,7 @@
 
 Se concluye que:
 
-- r.
+- Los cálculos realizados para obtener resistencia total, intensidad y voltaje son de suma importancia al momento de realizar otro circuito que contenga las mismas especificaciones en cuanto a intensidad o voltaje de salida, esto se lo conoce como un circuito de Thévenin.
 - El teorema de Thévenin permite reducir el circuito más complicado a un circuito equivalente con una sola fuente de voltaje y una sola resistencia, los valores de estas mismas dependerán del circuito original.
 - .
 
