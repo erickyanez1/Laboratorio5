@@ -64,7 +64,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.1.3.PNG)
   
 </div>
 
@@ -72,8 +72,7 @@
 
 <div align="center">
 
- 
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.1.4.PNG)
 
 </div>
 
@@ -82,8 +81,7 @@
 
 <div align="center">
 
- 
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.1.5.PNG)
 
 </div>
 
