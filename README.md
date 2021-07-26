@@ -56,7 +56,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.1.2.PNG)
   
 </div>
 
