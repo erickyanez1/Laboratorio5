@@ -123,3 +123,8 @@ Se concluye que:
 
 # **8. BIBLIOGRAFÍA**
 
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
+
+Guzmán, D. T., & Gonzalez, A. D. (2013). Limitacion en la aplicacion del teorema de Thevenin. Universidad Ciencia y Tecnología, 11(42).
+
+Hernandez Franco, C. A. (2014). Teoría de Circuitos-Teorema de Thevenin.
