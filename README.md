@@ -119,7 +119,7 @@ Se concluye que:
 
 - Los cálculos realizados para obtener resistencia total, intensidad y voltaje son de suma importancia al momento de realizar otro circuito que contenga las mismas especificaciones en cuanto a intensidad o voltaje de salida, esto se lo conoce como un circuito de Thévenin.
 - El teorema de Thévenin permite reducir el circuito más complicado a un circuito equivalente con una sola fuente de voltaje y una sola resistencia, los valores de estas mismas dependerán del circuito original.
-- .
+- Un circuito lineal con una carga variable puede reemplazarse por el equivalente de Thévenin, exclusivo para la carga. La red equivalente se comporta externamente de la misma manera que el circuito original.
 
 # **8. BIBLIOGRAFÍA**
 
