@@ -26,7 +26,8 @@
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/Teoria_!.png)
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/Teoria_2.png)
   
 </div>
   
@@ -34,10 +35,8 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/Material_equipo.png)
   
-  
-
 </div>
 
 # **4. EXPLICACIÓN DEL PROCEDIMIENTO**
@@ -107,6 +106,8 @@
 
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/Calculo_error_1.png)
+![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/Calculo_error_.png)
 
 # **6. VIDEO**
 
