@@ -79,7 +79,8 @@
 
 <div align="center">
 
-![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/4.1.5.PNG)
+![image](https://user-images.githubusercontent.com/84528402/127696583-957e8a87-5422-45de-aed0-53f08df11fe1.png)
+
   
 ![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/1.PNG)
 ![](https://github.com/erickyanez1/Laboratorio5/blob/main/IMG/2.PNG)
